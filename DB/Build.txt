@@ -1,0 +1,5 @@
+install pyinstaller package  (From setting)
+Open Treminal from intelliji and run "pyinstaller --onefile --windowed  frontend.py"
+
+Under dist there is a new executable file
+
